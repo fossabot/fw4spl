@@ -1,6 +1,7 @@
 | Branch |    Status |
 |--------|-----------|
-| Dev    | [![Build Status](https://travis-ci.org/fw4spl-org/fw4spl.svg?branch=dev)](https://travis-ci.org/fw4spl-org/fw4spl) |
+| Dev    | [![Build Status](https://travis-ci.org/fw4spl-org/fw4spl.svg?branch=dev)](https://travis-ci.org/fw4spl-org/fw4spl) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffw4spl-org%2Ffw4spl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffw4spl-org%2Ffw4spl?ref=badge_shield)
+|
 | Master | [![Build Status](https://travis-ci.org/fw4spl-org/fw4spl.svg?branch=master)](https://travis-ci.org/fw4spl-org/fw4spl) |
 
 
@@ -51,3 +52,7 @@ Annex
 * [fw4spl-droid](https://github.com/fw4spl-org/fw4spl-droid): fw4spl repository that brings Android support.
 * [fw4spl-ogre](https://github.com/fw4spl-org/fw4spl-ogre): fw4spl repository that offers a new 3D rendering backend using [Ogre3D](http://www.ogre3d.org/).
 * [fw4spl community](https://github.com/fw4spl-org): contains various repositories associated with fw4spl (extensions, dependencies, ...)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffw4spl-org%2Ffw4spl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffw4spl-org%2Ffw4spl?ref=badge_large)
